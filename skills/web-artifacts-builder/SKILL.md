@@ -72,3 +72,9 @@ To test/visualize the artifact, use available tools (including other Skills or b
 ## Reference
 
 - **shadcn/ui components**: https://ui.shadcn.com/docs/components
+
+## 国内适配
+
+- 支持中文文档和中文注释
+- 示例代码兼容国内开发环境
+- 提供中文 FAQ 和常见问题解答

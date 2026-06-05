@@ -473,3 +473,26 @@ mybatis-plus, mybatis-plus-generator, mybatis-plus code generator, mybatis-plus 
 MyBatis-Plus, mybatis-plus-generator, MyBatis-Plus 代码生成器, MyBatis-Plus 代码生成, 生成 MyBatis-Plus 代码, MyBatis-Plus 实体类生成, MyBatis-Plus Mapper 生成, MyBatis-Plus Service 生成, MyBatis-Plus Controller 生成, MyBatis-Plus CRUD 生成, MyBatis-Plus 根据表生成代码, MyBatis-Plus 数据库转代码, MyBatis-Plus 表转 Java, 使用 MyBatis-Plus 生成代码
 
 **IMPORTANT**: All keywords must include "MyBatis-Plus" or "mybatis-plus" to avoid false triggers. Generic terms like "代码生成器" (code generator) or "根据表生成代码" (generate code from table) without "MyBatis-Plus" should NOT trigger this skill.
+
+## 能力边界
+
+### ✅ 适用场景
+- 当你需要使用此技能对应的技术栈时
+- 当项目需要遵循最佳实践时
+- 当需要快速上手或深入理解核心概念时
+
+### ⚠️ 需要注意
+- 复杂业务逻辑需要结合具体场景调整
+- 性能优化需要根据实际数据量评估
+
+### ❌ 不适用场景
+- 不相关的技术栈或框架
+- 需要完全自定义的特殊场景
+
+## 常见陷阱 (Gotchas)
+
+1. **版本兼容性**：注意框架版本与依赖库的兼容性，不同版本 API 可能有差异
+2. **配置文件格式**：配置文件格式错误是最常见的问题，建议使用编辑器的语法检查
+3. **环境变量**：确保所有必要的环境变量已正确设置，敏感信息不要硬编码
+4. **依赖冲突**：多版本共存时注意依赖冲突，使用 lock 文件锁定版本
+5. **性能陷阱**：大数据量场景下注意性能优化，避免 N+1 查询等常见问题
