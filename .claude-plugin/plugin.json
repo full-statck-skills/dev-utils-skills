@@ -1,7 +1,7 @@
 {
   "name": "dev-utils-skills",
   "version": "1.0.0",
-  "description": "Developer utility skills — code generation, test writing, MCP builder, frontend design",
+  "description": "Developer utility skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
@@ -21,6 +21,6 @@
     "./skills/test-writer",
     "./skills/theme-factory",
     "./skills/web-artifacts-builder",
-    "./skills/webapp-testing",
+    "./skills/webapp-testing"
   ]
 }
