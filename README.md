@@ -1,0 +1,21 @@
+# dev-utils-skills
+
+Part of the [Full Stack Skills](https://github.com/partme-ai/full-stack-skills) ecosystem.
+
+## Install
+
+```bash
+npx skills add full-statck-skills/dev-utils-skills
+```
+
+## Skills (12)
+
+This package includes 12 Agent Skills for AI coding agents.
+
+## Supported Agents
+
+Works with [Claude Code](https://code.claude.com), [Codex](https://developers.openai.com/codex), [Cursor](https://cursor.com), [OpenCode](https://opencode.ai), [Gemini CLI](https://geminicli.com), [GitHub Copilot](https://github.com/features/copilot), and [70+ other agents](https://agentskills.io).
+
+## License
+
+Apache 2.0
