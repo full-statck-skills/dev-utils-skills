@@ -1,0 +1,26 @@
+{
+  "name": "dev-utils-skills",
+  "version": "1.0.0",
+  "description": "Developer utility skills — code generation, test writing, MCP builder, frontend design",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/dev-utils-skills",
+  "repository": "https://github.com/full-statck-skills/dev-utils-skills",
+  "source": "./",
+  "skills": [
+    "./skills/agent-browser",
+    "./skills/code-generator",
+    "./skills/documentation-builder",
+    "./skills/frontend-design",
+    "./skills/java-code-comments",
+    "./skills/maven-search",
+    "./skills/mcp-builder",
+    "./skills/mybatis-plus-generator",
+    "./skills/test-writer",
+    "./skills/theme-factory",
+    "./skills/web-artifacts-builder",
+    "./skills/webapp-testing",
+  ]
+}
